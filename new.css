@@ -246,14 +246,12 @@ nav ul li a:hover::after {
 .btn{
     display: block;
     margin: 50px auto;
-    width:fit-content;9AC0CB
-    border: 1px solid #9AC0CB;
+    width:fit-content;
+    border:1px solid #9AC0CB;
     padding: 14px 50px;
-    border-radius: 6px;
+    border-radius:6px;
     text-decoration: none;
     color: #fff;
-
-
 }
 
 .btn:hover{
@@ -305,7 +303,7 @@ nav ul li a:hover::after {
 .btn.btn2{
     display: inline-block;
     background: #9AC0CB;
-    float: right;
+    float:right;
 }
 
 .contact-right form{
